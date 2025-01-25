@@ -34,7 +34,9 @@ A Python-based terminal file manager that provides a simple and interactive way 
 ## Usage
 Open the dist folder and run the .exe file. 
 
-            Or
+
+OR
+
             
 1. Run the script:
    ```bash
