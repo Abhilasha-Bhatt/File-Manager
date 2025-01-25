@@ -32,7 +32,10 @@ A Python-based terminal file manager that provides a simple and interactive way 
    ```
 
 ## Usage
+Open the dist folder and run the .exe file. 
 
+            Or
+            
 1. Run the script:
    ```bash
    python main.py
